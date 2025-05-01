@@ -22,7 +22,7 @@ section {
   padding: 2em;
 }
 
-header::after {
+header::before {
   font-size: 0.6em;
   /* this text-align is important */
   text-align: right;
